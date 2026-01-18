@@ -1,0 +1,29 @@
+{
+  "name": "wallet-demo",
+  "version": "1.0.0",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@1inch/byte-utils": "^3.1.0",
+    "@1inch/cross-chain-sdk": "^1.1.0",
+    "@solana/web3.js": "^1.98.4",
+    "argon2": "^0.44.0",
+    "axios": "^1.12.2",
+    "bip39": "^3.1.0",
+    "dotenv": "^17.2.3",
+    "ed25519-hd-key": "^1.3.0",
+    "ethers": "^6.15.0",
+    "viem": "^2.38.2",
+    "web3": "^4.16.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

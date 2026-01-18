@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.12.2",
+    "bip39": "^3.1.0",
+    "bs58": "^6.0.0",
+    "ethers": "^6.15.0",
+    "micro-ed25519-hdkey": "^0.1.2"
+  }
+}
